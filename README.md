@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 another readme fot 0x03-git
 =======
 another readme for 0x03.git
@@ -126,3 +127,6 @@ echo 'My first readme' > README.md
 
 another readme 
 >>>>>>> e53efca7e284b309c083f7cc8c49ff7fc9c490c8
+=======
+im se engner
+>>>>>>> 42120e68664f35f35be9a97a37713ea792a5d234
